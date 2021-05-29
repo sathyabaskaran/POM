@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56384" started-at="2021-04-01T00:05:00 IST" finished-at="2021-04-01T00:05:56 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56384" started-at="2021-04-01T00:05:00 IST" finished-at="2021-04-01T00:05:56 IST">
+      <class name="testcases.CreateLeadTC">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:testcases.CreateLeadTC@eb21112]" name="startReport" is-config="true" duration-ms="1798" started-at="2021-04-01T00:04:58 IST" finished-at="2021-04-01T00:05:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setTestDetails()[pri:0, instance:testcases.CreateLeadTC@eb21112]" name="setTestDetails" is-config="true" duration-ms="0" started-at="2021-04-01T00:05:00 IST" finished-at="2021-04-01T00:05:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestDetails -->
+        <test-method status="PASS" signature="testDetails()[pri:0, instance:testcases.CreateLeadTC@eb21112]" name="testDetails" is-config="true" duration-ms="67" started-at="2021-04-01T00:05:00 IST" finished-at="2021-04-01T00:05:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method status="PASS" signature="startApp()[pri:0, instance:testcases.CreateLeadTC@eb21112]" name="startApp" is-config="true" duration-ms="21199" started-at="2021-04-01T00:05:04 IST" finished-at="2021-04-01T00:05:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="createNewLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.CreateLeadTC@eb21112]" name="createNewLead" duration-ms="26114" started-at="2021-04-01T00:05:25 IST" data-provider="fetchData" finished-at="2021-04-01T00:05:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[testleaf]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hari]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewLead -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.CreateLeadTC@eb21112]" name="closeBrowser" is-config="true" duration-ms="5212" started-at="2021-04-01T00:05:51 IST" finished-at="2021-04-01T00:05:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:testcases.CreateLeadTC@eb21112]" name="endReport" is-config="true" duration-ms="1313" started-at="2021-04-01T00:05:57 IST" finished-at="2021-04-01T00:05:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testcases.CreateLeadTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
