@@ -14,7 +14,7 @@ public class CreateLeadTC extends ProjectSpecificMethods{
 		excelfilename = "CreateLead";
 		testname = "CreateLead";
 		description = "create lead in test leaf application";
-		author = "sathya";
+		author = "sathyabask";
 		category = "sanity";
 	}
 	
